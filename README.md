@@ -1,6 +1,6 @@
 > Azure Pipelines badge here
 
-##Capitalists
+## Capitalists
 
 ### Game Description
 Learn the rules of the modern world in this safe and realistic environment.
