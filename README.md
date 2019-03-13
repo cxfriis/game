@@ -31,3 +31,6 @@ Open your web browser to `localhost:3000`
 
 ### Who Maintains This Project
 Capitalism is maintained by people you elected. They can be contacted through @cxfriis for assistance.
+
+### Can't get enough of being a capitalist snake?
+Go to our wiki and dive deeper into the roots of capitalism: https://github.com/cxfriis/game/wiki
